@@ -7,7 +7,6 @@ A Python-based habit tracking system that helps users build and maintain positiv
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
 
 ## ✅ Features
