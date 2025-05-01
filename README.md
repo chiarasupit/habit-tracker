@@ -1,4 +1,4 @@
-# Habit Tracker Application
+# 🧠 Habit Tracker Application
 
 A Python-based habit tracking system that helps users build and maintain positive habits through periodic tracking and analytics.
 
@@ -35,12 +35,14 @@ A Python-based habit tracking system that helps users build and maintain positiv
    ```bash
    git clone https://github.com/chiarasupit/habit-tracker.git
    cd habit-tracker
+
 2. **Set up virtual environment**:
 python -m venv venv
-# Windows:
+- Windows:
 venv\Scripts\activate
-# macOS/Linux:
+- MacOS/Linux:
 source venv/bin/activate
+
 3. **Install dependencies**:
 pip install -r requirements.txt
 
