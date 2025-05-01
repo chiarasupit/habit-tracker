@@ -1,4 +1,4 @@
-# habit-tracker
+# Habit Tracker Application
 
 A Python-based habit tracking system that helps users build and maintain positive habits through periodic tracking and analytics.
 
@@ -37,11 +37,11 @@ A Python-based habit tracking system that helps users build and maintain positiv
    cd habit-tracker
 2. **Set up virtual environment**:
 python -m venv venv
-## Windows:
+# Windows:
 venv\Scripts\activate
-## macOS/Linux:
+# macOS/Linux:
 source venv/bin/activate
-3. Install dependencies:
+3. **Install dependencies**:
 pip install -r requirements.txt
 
 ## 🚀 Usage
@@ -68,15 +68,6 @@ Test Coverage Includes:
 2. Streak calculations
 3. Database operations
 4. Analytics functions
-
-## 🗂 Project Structure
-habit-tracker/
-├── analytics.py      # Analytics functions
-├── database.py       # Database operations
-├── habit.py          # Habit class
-├── main.py           # CLI interface
-├── test.py           # Test suite
-└── requirements.txt  # Dependencies
  
 ## 🛠️ Troubleshooting
 1. Database errors -> Delete habits.db file
