@@ -7,7 +7,6 @@ A Python-based habit tracking system that helps users build and maintain positiv
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
 
 ## ✅ Features
@@ -71,15 +70,6 @@ Test Coverage Includes:
 3. Database operations
 4. Analytics functions
 
-## 🗂 Project Structure
-habit-tracker/
-├── analytics.py      # Analytics functions
-├── database.py       # Database operations
-├── habit.py          # Habit class
-├── main.py           # CLI interface
-├── test.py           # Test suite
-└── requirements.txt  # Dependencies
- 
 ## 🛠️ Troubleshooting
 1. Database errors -> Delete habits.db file
 2. Import errors ->	Reinstall dependencies
